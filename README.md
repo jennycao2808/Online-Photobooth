@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Open this project through this live link: [https://online-photobooth-blue.vercel.app/](url)
+
 ## Available Scripts
 
 In the project directory, you can run:
